@@ -7,10 +7,7 @@ public class Zadata13_2 {
                 if ( i%f==0) {
                     System.out.println("Простое"+i);
                     break;
-
                 }
-
-
             }
         }
     }
